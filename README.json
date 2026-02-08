@@ -155,7 +155,7 @@
             "last_commit": "2025-10-30T11:24:31Z",
             "owner": "mainsail-crew",
             "repo": "MainsailOS",
-            "stars": 704
+            "stars": 703
           }
         },
         {
@@ -188,7 +188,7 @@
             "last_commit": "2025-02-14T15:47:26Z",
             "owner": "ccrisan",
             "repo": "motioneyeos",
-            "stars": 8174
+            "stars": 8173
           }
         },
         {
@@ -497,7 +497,7 @@
             "last_commit": "2025-12-04T16:01:04Z",
             "owner": "RPi-Distro",
             "repo": "pi-gen",
-            "stars": 3108
+            "stars": 3110
           }
         },
         {
@@ -590,10 +590,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-02-07T07:03:53Z",
+            "last_commit": "2026-02-08T01:14:21Z",
             "owner": "Botspot",
             "repo": "pi-apps",
-            "stars": 2642
+            "stars": 2643
           }
         },
         {
@@ -611,7 +611,7 @@
             "last_commit": "2025-08-23T12:24:16Z",
             "owner": "evilsocket",
             "repo": "pwnagotchi",
-            "stars": 8930
+            "stars": 8931
           }
         },
         {
@@ -683,7 +683,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-02-06T23:29:28Z",
+            "last_commit": "2026-02-08T03:26:48Z",
             "owner": "gitbls",
             "repo": "sdm",
             "stars": 716
@@ -754,7 +754,7 @@
             "last_commit": "2026-02-06T05:23:58Z",
             "owner": "AdguardTeam",
             "repo": "AdGuardHome",
-            "stars": 32439
+            "stars": 32456
           }
         },
         {
@@ -862,7 +862,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2025-12-23T12:16:55Z",
+            "last_commit": "2026-02-07T20:37:59Z",
             "owner": "alex9849",
             "repo": "pi-cocktail-maker",
             "stars": 179
@@ -989,7 +989,7 @@
             "last_commit": "2026-01-26T01:05:09Z",
             "owner": "havenweb",
             "repo": "haven",
-            "stars": 752
+            "stars": 753
           }
         },
         {
@@ -1033,7 +1033,7 @@
             "last_commit": "2017-06-07T06:36:57Z",
             "owner": "luxas",
             "repo": "kubernetes-on-arm",
-            "stars": 600
+            "stars": 601
           }
         },
         {
@@ -1198,7 +1198,7 @@
             "last_commit": "2025-12-15T11:51:40Z",
             "owner": "pikvm",
             "repo": "pikvm",
-            "stars": 9756
+            "stars": 9759
           }
         },
         {
@@ -1265,7 +1265,7 @@
             "last_commit": "2026-02-01T10:52:49Z",
             "owner": "ChristopheJacquet",
             "repo": "PiFmRds",
-            "stars": 1548
+            "stars": 1549
           }
         },
         {
@@ -1473,7 +1473,7 @@
             "last_commit": "2026-02-04T19:09:11Z",
             "owner": "samaaron",
             "repo": "sonic-pi",
-            "stars": 11658
+            "stars": 11660
           }
         },
         {
@@ -1663,7 +1663,7 @@
             "last_commit": "2026-02-03T00:08:54Z",
             "owner": "irtimmer",
             "repo": "moonlight-embedded",
-            "stars": 1604
+            "stars": 1605
           }
         },
         {
@@ -1794,10 +1794,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T07:25:38.120Z",
+    "last_updated": "2026-02-08T04:27:58.957Z",
     "original_repository": "thibmaek/awesome-raspberry-pi",
     "source_repository": "v1nvn/enhansome-raspberry-pi",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Awesome Raspberry Pi with stars"
   }
 }
