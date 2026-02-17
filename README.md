@@ -1,13 +1,13 @@
 # Awesome Raspberry Pi with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 437,720 | 🐛 71 | 📅 2026-01-28
-[![All Contributors](https://img.shields.io/badge/all_contributors-43-orange.svg)](https://github.com/thibmaek/awesome-raspberry-pi/blob/main/CONTRIBUTORS.md) ⭐ 15,920 | 🐛 9 | 🌐 Shell | 📅 2026-02-08
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 437,917 | 🐛 71 | 📅 2026-01-28
+[![All Contributors](https://img.shields.io/badge/all_contributors-43-orange.svg)](https://github.com/thibmaek/awesome-raspberry-pi/blob/main/CONTRIBUTORS.md) ⭐ 15,929 | 🐛 8 | 🌐 Shell | 📅 2026-02-16
 
 <a href="https://www.raspberrypi.org"><img src="https://www.raspberrypi.org/wp-content/uploads/2012/03/raspberry-pi-logo.png" alt="Raspberry Pi Logo" align="left" style="margin-right: 25px" height=150></a>
 
 > The Raspberry Pi is a series of credit card-sized single-board computers developed in the United Kingdom by the Raspberry Pi Foundation to promote the teaching of basic computer science in schools and developing countries. Official Link: [Raspberry Pi Foundation Homepage](https://raspberrypi.org), [Raspberry Pi Computer Homepage](https://www.raspberrypi.com)
 
-This list is a collection of tools, projects, images and resources conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 437,720 | 🐛 71 | 📅 2026-01-28
+This list is a collection of tools, projects, images and resources conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 437,917 | 🐛 71 | 📅 2026-01-28
 
 Contributions *very welcome* but first see [Contributing](#contributing)
 
@@ -44,12 +44,12 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 
 ## OS Images
 
-* [motionEyeOS](https://github.com/ccrisan/motioneyeos/wiki) ⭐ 8,174 | 🐛 834 | 🌐 Makefile | 📅 2025-02-14 - Linux distribution that turns a single-board computer into a video surveillance system.
-* [NextCloudPi](https://github.com/nextcloud/nextcloudpi) ⭐ 2,863 | 🐛 217 | 🌐 Shell | 📅 2025-11-19 - Nextcloud ready image based on Raspbian. Features Nextcloud 11 running on Raspbian 8, with PHP 7 and HTTP2 enabled Apache server.
-* [chilipie-kiosk](https://github.com/futurice/chilipie-kiosk) ⭐ 1,396 | 🐛 68 | 🌐 HTML | 📅 2022-04-04 - Image which boots directly into full-screen Chrome, perfect for dashboards and build monitors. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
-* [DroneBridge](https://github.com/seeul8er/DroneBridge) ⭐ 898 | 🐛 17 | 🌐 C | 📅 2022-01-07 - A WifiBroadcast extension to make for a real alternative to DJI Lightbridge and other similar systems. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
+* [motionEyeOS](https://github.com/ccrisan/motioneyeos/wiki) ⭐ 8,175 | 🐛 834 | 🌐 Makefile | 📅 2025-02-14 - Linux distribution that turns a single-board computer into a video surveillance system.
+* [NextCloudPi](https://github.com/nextcloud/nextcloudpi) ⭐ 2,864 | 🐛 217 | 🌐 Shell | 📅 2025-11-19 - Nextcloud ready image based on Raspbian. Features Nextcloud 11 running on Raspbian 8, with PHP 7 and HTTP2 enabled Apache server.
+* [chilipie-kiosk](https://github.com/futurice/chilipie-kiosk) ⭐ 1,397 | 🐛 68 | 🌐 HTML | 📅 2022-04-04 - Image which boots directly into full-screen Chrome, perfect for dashboards and build monitors. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
+* [DroneBridge](https://github.com/seeul8er/DroneBridge) ⭐ 899 | 🐛 17 | 🌐 C | 📅 2022-01-07 - A WifiBroadcast extension to make for a real alternative to DJI Lightbridge and other similar systems. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 * [EZ-WifiBroadcast](https://github.com/bortek/EZ-WifiBroadcast/wiki) ⭐ 892 | 🐛 62 | 🌐 C | 📅 2024-01-31 - Affordable Wireless Digital HD Video Transmission made easy. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png) ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
-* [Mainsail OS](https://github.com/mainsail-crew/MainsailOS) ⭐ 706 | 🐛 4 | 🌐 Shell | 📅 2025-10-30 - A distribution for 3D Printers that includes everything to get started with Klipper Firmware and Mainsail.
+* [Mainsail OS](https://github.com/mainsail-crew/MainsailOS) ⭐ 707 | 🐛 4 | 🌐 Shell | 📅 2025-10-30 - A distribution for 3D Printers that includes everything to get started with Klipper Firmware and Mainsail.
 * [DietPi](https://github.com/Fourdee/DietPi) ⭐ 17 | 🐛 0 | 📅 2023-04-20 - Minimal image designed to fit on a 2GB SD card, with tons of configurable settings and scripts.
 * [RasComm RaspberryPi MorseCode Translator](https://github.com/Defcon27/RasComm-RaspberryPi-MorseCode-Translator) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2020-07-25 - RasComm is a communication device that translates plain text into Morse code (IMC) visually or audibly.
 * [Alpine Linux](https://wiki.alpinelinux.org/wiki/Raspberry_Pi) - Security-oriented, lightweight Linux distribution based on musl libc and busybox.
@@ -105,12 +105,12 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 
 ## Tools
 
-* [Pwnagotchi](https://github.com/evilsocket/pwnagotchi) ⭐ 8,944 | 🐛 296 | 🌐 Python | 📅 2025-08-23 - Pwnagotchi is an AI based Wi-Fi cracking tool that learns from its surrounding WiFi environment to maximize the crackable WPA key material it captures.
-* [PiShrink](https://github.com/Drewsif/PiShrink/) ⭐ 3,922 | 🐛 31 | 🌐 Shell | 📅 2025-04-20 - Bash script that automatically shrinks a pi image that will then resize to the max size of the SD card on boot.
+* [Pwnagotchi](https://github.com/evilsocket/pwnagotchi) ⭐ 8,948 | 🐛 296 | 🌐 Python | 📅 2025-08-23 - Pwnagotchi is an AI based Wi-Fi cracking tool that learns from its surrounding WiFi environment to maximize the crackable WPA key material it captures.
+* [PiShrink](https://github.com/Drewsif/PiShrink/) ⭐ 3,924 | 🐛 31 | 🌐 Shell | 📅 2025-04-20 - Bash script that automatically shrinks a pi image that will then resize to the max size of the SD card on boot.
 * [pi-gen](https://github.com/RPi-Distro/pi-gen) ⭐ 3,117 | 🐛 161 | 🌐 Shell | 📅 2025-12-04 - Tool used to create the raspberrypi.org Raspbian images. This can be used to create your own custom images with specific packages installed, etc.
-* [Pi-Apps](https://github.com/Botspot/pi-apps) ⭐ 2,649 | 🐛 142 | 🌐 Shell | 📅 2026-02-16 - The most popular app store for Raspberry Pi computers, 100% open-source bash scripts.
-* [PiKISS](https://github.com/jmcerrejon/PiKISS) ⭐ 975 | 🐛 26 | 🌐 Shell | 📅 2026-01-17 - A bunch of scripts with menu to make your life easier.
-* [sdm](https://github.com/gitbls/sdm) ⭐ 720 | 🐛 14 | 🌐 Shell | 📅 2026-02-16 - Easily and fully customize RasPiOS images. Install apps, configure settings, etc then burn SSDs/SD cards for lots of different systems from a single image, and each one boots up fully configured and ready for work. Or play.
+* [Pi-Apps](https://github.com/Botspot/pi-apps) ⭐ 2,650 | 🐛 143 | 🌐 Shell | 📅 2026-02-17 - The most popular app store for Raspberry Pi computers, 100% open-source bash scripts.
+* [PiKISS](https://github.com/jmcerrejon/PiKISS) ⭐ 976 | 🐛 27 | 🌐 Shell | 📅 2026-01-17 - A bunch of scripts with menu to make your life easier.
+* [sdm](https://github.com/gitbls/sdm) ⭐ 720 | 🐛 16 | 🌐 Shell | 📅 2026-02-16 - Easily and fully customize RasPiOS images. Install apps, configure settings, etc then burn SSDs/SD cards for lots of different systems from a single image, and each one boots up fully configured and ready for work. Or play.
 * [stressberry](https://github.com/nschloe/stressberry) ⭐ 358 | 🐛 39 | 🌐 Python | 📅 2023-06-17 - Stress test your Raspberry Pi and plot temperatures.
 * [iotwifi](https://github.com/cjimti/iotwifi) ⚠️ Archived - Wifi AP + Client management in 8MB [Docker Container](https://hub.docker.com/r/cjimti/iotwifi/), with REST API for controlling wifi client and station modes simultaneously. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 * [Atlas toolkit](https://github.com/epeios-q37/atlas-python) ⭐ 278 | 🐛 2 | 🌐 Python | 📅 2025-05-27 - Very lightweight and easy to install toolkit to write in Python single-page web applications to pilot your RPi, without having to install a web server.
@@ -121,7 +121,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 * [TorTiPi](https://github.com/r0hi7/tortipi) ⭐ 127 | 🐛 0 | 🌐 Shell | 📅 2020-11-29 - Shell script to automate the task of converting Raspberry Pi into a tor based wifi hotspot.
 * [Orangetool](https://github.com/Moduland/Orangetool) ⭐ 109 | 🐛 5 | 🌐 Python | 📅 2024-02-09 - Control functions for Single-Board computers in Python.
 * [ndm](https://github.com/gitbls/ndm) ⭐ 80 | 🐛 0 | 🌐 Python | 📅 2026-01-05 - Command line tool to easily manage DNS and DHCP servers.
-* [pistrong](https://github.com/gitbls/pistrong) ⭐ 71 | 🐛 0 | 🌐 Shell | 📅 2025-01-19 - Manage certificate-secured strongSwan VPNs. Installer and command-line tool for client-server, site-to-site, and host-to-host VPNs.
+* [pistrong](https://github.com/gitbls/pistrong) ⭐ 72 | 🐛 0 | 🌐 Shell | 📅 2025-01-19 - Manage certificate-secured strongSwan VPNs. Installer and command-line tool for client-server, site-to-site, and host-to-host VPNs.
 * [Alpha](https://github.com/farjump/raspberry-pi) ⭐ 48 | 🐛 3 | 🌐 C | 📅 2018-09-29 - Remotely load, debug and test bare-metal programs using GDB with this system-level GDB server.
 * [PiGro](https://github.com/actionschnitzel/PiGro-Aid-) ⭐ 45 | 🐛 1 | 🌐 Python | 📅 2025-03-24 - PiGro does many commands that have to be entered via the terminal with one or two clicks of a button.
 * [Resin Bridge](https://github.com/resin-io-playground/resin-bridge) ⭐ 43 | 🐛 2 | 🌐 Shell | 📅 2017-05-02 - Simple application/repo to bridge a Raspberry Pi's wlan0 interface to devices plugged into it over ethernet (eth0).
@@ -143,34 +143,34 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 
 ## Projects
 
-* [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) ⭐ 32,588 | 🐛 1,273 | 🌐 Go | 📅 2026-02-16 - DNS relay station with ad/tracker/other blocking, IP address redirections, and DNS-over-HTTPS.
+* [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) ⭐ 32,595 | 🐛 1,272 | 🌐 Go | 📅 2026-02-17 - DNS relay station with ad/tracker/other blocking, IP address redirections, and DNS-over-HTTPS.
 * [Sonic Pi](https://github.com/samaaron/sonic-pi) ⭐ 11,668 | 🐛 314 | 🌐 C++ | 📅 2026-02-04 - The Live Coding Music Synth for Everyone.
-* [Pi-KVM](https://github.com/pikvm/pikvm) ⭐ 9,773 | 🐛 89 | 📅 2026-02-11 - DIY KVM over IP to manage remote computers via Web UI or VNC with FullHD video, mouse, virtual drive, IPMI, Wake-on-LAN and many other things.
-* [PoisonTap](https://github.com/samyk/poisontap) ⭐ 6,441 | 🐛 90 | 🌐 JavaScript | 📅 2018-11-26 - Exploits locked/password protected computers over USB, drops persistent WebSocket-based backdoor, exposes internal router, and siphons cookies using Raspberry Pi Zero & Node.js. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
+* [Pi-KVM](https://github.com/pikvm/pikvm) ⭐ 9,774 | 🐛 89 | 📅 2026-02-11 - DIY KVM over IP to manage remote computers via Web UI or VNC with FullHD video, mouse, virtual drive, IPMI, Wake-on-LAN and many other things.
+* [PoisonTap](https://github.com/samyk/poisontap) ⭐ 6,442 | 🐛 90 | 🌐 JavaScript | 📅 2018-11-26 - Exploits locked/password protected computers over USB, drops persistent WebSocket-based backdoor, exposes internal router, and siphons cookies using Raspberry Pi Zero & Node.js. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 * [P4wnP1](https://github.com/mame82/P4wnP1) ⭐ 4,348 | 🐛 120 | 🌐 Python | 📅 2024-08-12 - P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W (required for HID backdoor). ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 * [Smart Mirror](https://github.com/evancohen/smart-mirror) ⭐ 2,820 | 🐛 19 | 🌐 JavaScript | 📅 2024-07-02 - Voice controlled smart mirror with IoT integration. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
-* [Circle](https://github.com/rsta2/circle) ⭐ 2,197 | 🐛 20 | 🌐 C | 📅 2026-02-13 - A C++ bare metal environment for Raspberry Pi.
+* [Circle](https://github.com/rsta2/circle) ⭐ 2,198 | 🐛 17 | 🌐 C | 📅 2026-02-16 - A C++ bare metal environment for Raspberry Pi.
 * [PiFmRds](https://github.com/ChristopheJacquet/PiFmRds) ⭐ 1,550 | 🐛 68 | 🌐 C | 📅 2026-02-01 - FM-RDS transmitter using a Raspberry Pi.
-* [CookCLI](https://github.com/cooklang/CookCLI) ⭐ 1,128 | 🐛 24 | 🌐 Rust | 📅 2026-02-12 - Turn your Raspberry Pi into a self-hosted recipe server. Manage recipes in plain-text Cooklang format with web UI, shopping lists, and meal planning.
+* [CookCLI](https://github.com/cooklang/CookCLI) ⭐ 1,131 | 🐛 22 | 🌐 Rust | 📅 2026-02-16 - Turn your Raspberry Pi into a self-hosted recipe server. Manage recipes in plain-text Cooklang format with web UI, shopping lists, and meal planning.
 * [Stratux](https://github.com/cyoung/stratux) ⭐ 1,109 | 🐛 119 | 🌐 C | 📅 2024-10-06 - Open source ADS-B receiver which feeds weather, traffic, GPS, and AHRS data to electronic flight bag software via wifi.
 * [speed-camera](https://github.com/pageauc/speed-camera) ⭐ 1,079 | 🐛 15 | 🌐 Python | 📅 2025-10-17 - Object Motion Tracking uses python, openCV, USB Cam or picamera module to record speed data.
-* [Looper/synth/drum thing](https://github.com/otem/Raspberry-Pi-Looper-synth-drum-thing) ⭐ 1,021 | 🐛 6 | 🌐 C++ | 📅 2021-07-04 - Sequencer/Drumpad, like Native Instruments' Maschine for the Pi.
+* [Looper/synth/drum thing](https://github.com/otem/Raspberry-Pi-Looper-synth-drum-thing) ⭐ 1,023 | 🐛 6 | 🌐 C++ | 📅 2021-07-04 - Sequencer/Drumpad, like Native Instruments' Maschine for the Pi.
 * [Haven](https://github.com/havenweb/haven) ⭐ 755 | 🐛 15 | 🌐 Ruby | 📅 2026-01-26 - Host a private blog on your Rasperry Pi instead of using Facebook.
 * [Sonus](https://github.com/evancohen/sonus) ⭐ 639 | 🐛 36 | 🌐 JavaScript | 📅 2024-07-02 - Node.js voice control for your Pi (and everything else) with customizable offline hotword detection.
 * [Kubernetes on ARM](https://github.com/luxas/kubernetes-on-arm) ⭐ 601 | 🐛 27 | 🌐 Shell | 📅 2017-06-07 - Get your ARM device up and running Kubernetes in less than ten minutes.
 * [PiClock](https://github.com/n0bel/PiClock) ⭐ 585 | 🐛 37 | 🌐 Python | 📅 2024-07-15 - Fancy Clock built around a monitor and a Raspberry Pi.
 * [pi-timolo](https://github.com/pageauc/pi-timolo) ⭐ 579 | 🐛 2 | 🌐 Python | 📅 2025-05-07 - Remote Headless multi feature PiCamera Operation from Rclone Remote Storage Service and More.
-* [Network Presence Detector](https://github.com/initialstate/pi-sensor-free-presence-detector/wiki) ⭐ 375 | 🐛 3 | 🌐 Python | 📅 2017-09-22 - Setup a Pi Zero to scan for devices on a WiFi network and use that to determine who is "home".
+* [Network Presence Detector](https://github.com/initialstate/pi-sensor-free-presence-detector/wiki) ⭐ 376 | 🐛 3 | 🌐 Python | 📅 2017-09-22 - Setup a Pi Zero to scan for devices on a WiFi network and use that to determine who is "home".
 * [Raspberry Pi Dashboard](https://github.com/femto-code/Raspberry-Pi-Dashboard) ⭐ 351 | 🐛 11 | 🌐 PHP | 📅 2024-06-26 - Full-featured web-based dashboard interface to inspect and manage Raspberry Pi hardware and software, with no extra software required.
 * [RPi Motor Library](https://github.com/gavinlyonsrepo/RpiMotorLib) ⭐ 332 | 🐛 1 | 🌐 Python | 📅 2025-02-07 - Python 3 library to connect various motors & servos to the Pi.
 * [SecPi](https://github.com/SecPi/SecPi) ⭐ 259 | 🐛 32 | 🌐 Python | 📅 2022-11-23 - Raspberry Pi based home alarm system.
 * [USB Proxy](https://github.com/AristoChen/usb-proxy) ⭐ 250 | 🐛 14 | 🌐 C++ | 📅 2026-02-10 - A USB man-in-the-middle project that allow users to monitor and modify USB packets flow between host and device.
 * [Lomorage](https://github.com/lomorage/homepage) ⭐ 236 | 🐛 6 | 🌐 HTML | 📅 2024-11-18 - Private photo cloud host on Raspberry Pi, with Android/iOS/Web client.
 * [CocktailMaker](https://github.com/alex9849/pi-cocktail-maker) ⭐ 179 | 🐛 14 | 🌐 Java | 📅 2026-02-07 - An advanced cocktail making machine that can be controlled via browser and touchscreen.
-* [Movel](https://github.com/stevelacy/movel) ⭐ 154 | 🐛 1 | 🌐 CoffeeScript | 📅 2015-12-21 - Raspberry Pi car computer.
+* [Movel](https://github.com/stevelacy/movel) ⭐ 153 | 🐛 1 | 🌐 CoffeeScript | 📅 2015-12-21 - Raspberry Pi car computer.
 * [Hearing aid prototoype](https://github.com/m-r-s/hearingaid-prototype) ⭐ 129 | 🐛 13 | 🌐 MATLAB | 📅 2021-10-20 - A Raspberry Pi powered prototype of a hearing aid. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
+* [BotWave](https://github.com/dpipstudio/botwave/) ⭐ 120 | 🐛 0 | 🌐 Python | 📅 2026-02-16 - FM broadcasting system with server-client architecture for managing multiple Raspberry Pi transmitters remotely. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png) ![Supports Raspberry Pi 2](/media/badges/rpi-2.png) ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 * [Internet Chronometer](https://github.com/rothman857/chronometer) ⭐ 120 | 🐛 1 | 🌐 Python | 📅 2024-12-31 - Turn your Raspberry Pi in to an Internet Chronometer.
-* [BotWave](https://github.com/dpipstudio/botwave/) ⭐ 119 | 🐛 0 | 🌐 Python | 📅 2026-02-12 - FM broadcasting system with server-client architecture for managing multiple Raspberry Pi transmitters remotely. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png) ![Supports Raspberry Pi 2](/media/badges/rpi-2.png) ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 * [RPI tempmon](https://github.com/gavinlyonsrepo/raspberrypi_tempmon) ⭐ 86 | 🐛 0 | 🌐 Python | 📅 2024-10-04 - CPU GPU temperature monitor with various functions such as LED GPIO, Graph output, email, alarm limit, notifications and logging.
 * [docsis-cable-load-monitor](https://github.com/sp4rkie/docsis-cable-load-monitor) ⭐ 66 | 🐛 0 | 🌐 Shell | 📅 2022-08-05 - Tool to monitor downstream load on DOCSIS cable networks.
 * [clockOS](https://github.com/iGerli/clockOS) ⭐ 54 | 🐛 9 | 🌐 JavaScript | 📅 2017-06-21 - simple smart desktop clock using a Raspberry Pi display.
@@ -181,9 +181,10 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 * [Wordpress using Docker](https://github.com/rothgar/rpi-wordpress) ⚠️ Archived - Run a Wordpress site in containers with dynamic DNS.
 * [PiFanTuner](https://github.com/winkidney/PIFanTuner) ⭐ 43 | 🐛 1 | 🌐 Python | 📅 2016-09-22 - CPU-fan-tuner daemon, just enables your fan as necessary. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 * [Waves](https://github.com/euniceylee/waves) ⭐ 41 | 🐛 0 | 🌐 Python | 📅 2018-04-01 - Transforming the transience of the spoken word into something concrete and physical through a microphone, waveform and thermal printer.
-* [Display\_Lib\_RPI](https://github.com/gavinlyonsrepo/Display_Lib_RPI) ⭐ 39 | 🐛 0 | 🌐 C++ | 📅 2026-02-12 - A shared installable C++ Library to connect various electronic displays to Raspberry Pi single board computers.
+* [Display\_Lib\_RPI](https://github.com/gavinlyonsrepo/Display_Lib_RPI) ⭐ 39 | 🐛 0 | 🌐 C++ | 📅 2026-02-16 - A shared installable C++ Library to connect various electronic displays to Raspberry Pi single board computers.
 * [TeslaCam](https://github.com/LelandSindt/teslacam) ⭐ 39 | 🐛 0 | 🌐 Shell | 📅 2019-05-21 - Project utilizing a Raspberry Pi Zero W for USB Mass storage emulation and a PiJuice to collect and archive TeslaCam video. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 * [pi\_payments](https://github.com/anshulahuja98/pi_payments) ⭐ 28 | 🐛 0 | 🌐 Python | 📅 2018-05-13 - Payment module based on RFID.
+* [ble-scale-sync](https://github.com/KristianP26/ble-scale-sync) ⭐ 27 | 🐛 2 | 🌐 TypeScript | 📅 2026-02-16 - Reads BLE smart scales (23 brands) via built-in Bluetooth, calculates body composition, and exports to Garmin Connect, MQTT/Home Assistant, InfluxDB, and more. [Website](https://blescalesync.dev).
 * [NALIVATOR-9000](https://github.com/fote/nalivator9000) ⭐ 22 | 🐛 0 | 🌐 Go | 📅 2017-10-29 - Robot bartender for making cocktails with Telegram-bot interface and speech synthesis on Golang.
 * [DIY Arcade Machine](https://github.com/SimonWaldherr/DIY-Arcade-Machine) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2026-01-04 - A retro style arcade machine, based on a Raspberry Pi Pico, a Hub75 LED matrix and some other stuff (Wii Nunchucks, 3D printed parts, ...)
 * [Gaussmeter](https://github.com/gaussmeter/gaussmeter) ⭐ 15 | 🐛 0 | 🌐 Shell | 📅 2023-11-13 - Project utilizing a Raspberry Pi Zero W, WS2812B Leds and the Tesla API to collect and display a Tesla's status. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
@@ -295,7 +296,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 
 ### Tutorials
 
-* [Moonlight](https://github.com/irtimmer/moonlight-embedded) ⭐ 1,608 | 🐛 113 | 🌐 C | 📅 2026-02-09 - Nvidia GameStream implementation to stream your full collection of Steam games from desktop to the Raspberry Pi.
+* [Moonlight](https://github.com/irtimmer/moonlight-embedded) ⭐ 1,608 | 🐛 114 | 🌐 C | 📅 2026-02-16 - Nvidia GameStream implementation to stream your full collection of Steam games from desktop to the Raspberry Pi.
 * [Raspbereum](https://github.com/jim380/Raspbereum) ⭐ 14 | 🐛 0 | 📅 2019-02-18 - Run your own Ethereum node on a Raspberry Pi.
 * [Auto Mount USB](https://medium.com/@anshul.ahu/guide-to-setup-auto-mount-usb-on-raspberry-pi-4f343761627f) - Guide to setup Auto Mount USB on Raspberry Pi.
 * [Bridging Wifi to the Raspberry Pi over Ethernet](https://thibmaek.com/posts/bridging-wifi-to-the-raspberry-pi-over-ethernet) - Set up tethered networking between macOS & Raspberry Pi.
@@ -341,7 +342,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 
 ### Contributing
 
-Contribution guidelines can be found [here](https://github.com/thibmaek/awesome-raspberry-pi/blob/main/CONTRIBUTING.md) ⭐ 15,920 | 🐛 9 | 🌐 Shell | 📅 2026-02-08
+Contribution guidelines can be found [here](https://github.com/thibmaek/awesome-raspberry-pi/blob/main/CONTRIBUTING.md) ⭐ 15,929 | 🐛 8 | 🌐 Shell | 📅 2026-02-16
 
 ### License
 
